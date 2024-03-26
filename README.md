@@ -1,6 +1,6 @@
 ![MasterHead](https://www.nuformat.com/wp-content/uploads/2020/06/adobestock_342188628-scaled.jpeg)
 <h1 align="center">Hi 👋, I'm Taukir Ahmed</h1>
-<h3 align="center">A Programmer, Bug Bounty Hunter and Cybersecurity Geek</h3>
+<h3 align="center">Certified Ethical Hacker, Programmer and Bug Bounty Hunter </h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning **DevSecOps**
