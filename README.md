@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevSecOps**
 
-- 💬 Ask me about **Penetration Testing**
+- 💬 Ask me about **Web Application Security**
 
 - 📫 How to reach me **ahmedtaukir51@gmail.com**
 
