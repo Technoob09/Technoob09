@@ -1,5 +1,5 @@
 <!-- ✅ Lightweight MasterHead Image -->
-![MasterHead](<img src="https://owasp.org/assets/images/logo.png" width="40" height="40" alt="OWASP"/>)
+
 
 <h1 align="center">Hi 👋, I'm Taukir Ahmed</h1>
 <h3 align="center">🚀 DevSecOps | Certified Ethical Hacker | Security Engineer</h3>
