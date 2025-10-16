@@ -1,5 +1,5 @@
 <!-- ✅ Lightweight MasterHead Image -->
-![MasterHead](https://i.imgur.com/jEeuZ3H.jpeg)
+![MasterHead](<img src="https://owasp.org/assets/images/logo.png" width="40" height="40" alt="OWASP"/>)
 
 <h1 align="center">Hi 👋, I'm Taukir Ahmed</h1>
 <h3 align="center">🚀 DevSecOps | Certified Ethical Hacker | Security Engineer</h3>
@@ -69,8 +69,8 @@
 #### 🧩 Monitoring & Security
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40" alt="Datadog"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/OWASP_logo.svg" width="40" height="40" alt="OWASP"/>
-  <img src="https://seeklogo.com/images/H/hashicorp-vault-logo-9A1F1D85C4-seeklogo.com.png" width="40" height="40" alt="Vault"/>
+  <img src="https://owasp.org/assets/images/logo.png" width="40" height="40" alt="OWASP"/>
+  <img src="https://raw.githubusercontent.com/hashicorp/vault/main/website/static/img/logo.svg" width="40" height="40" alt="Vault"/>
 </p>
 
 ---
@@ -82,6 +82,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=taukirahmed&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
