@@ -70,7 +70,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40" alt="Datadog"/>
   <img src="https://owasp.org/assets/images/logo.png" width="40" height="40" alt="OWASP"/>
-  <img src="https://raw.githubusercontent.com/hashicorp/vault/main/website/static/img/logo.svg" width="40" height="40" alt="Vault"/>
+  <img src="https://github.com/user-attachments/assets/cd9ea0d5-352b-4022-a79c-45643f360f55" width="40" height="40" alt="Vault"/>
 </p>
 
 ---
