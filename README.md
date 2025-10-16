@@ -1,9 +1,10 @@
-![MasterHead](https://www.nuformat.com/wp-content/uploads/2020/06/adobestock_342188628-scaled.jpeg)
+<!-- ✅ Lightweight MasterHead Image -->
+![MasterHead](https://i.imgur.com/jEeuZ3H.jpeg)
 
 <h1 align="center">Hi 👋, I'm Taukir Ahmed</h1>
 <h3 align="center">🚀 DevSecOps | Certified Ethical Hacker | Security Engineer</h3>
 
-<img align="right" alt="Coding" width="420" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="420" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ---
 
@@ -20,7 +21,7 @@
 <p align="left">
   <a href="https://twitter.com/taukir45352548" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/taukir-ahmed-47b395218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ahmedtaukir51@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ahmedtaukir51@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -68,8 +69,8 @@
 #### 🧩 Monitoring & Security
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40" alt="Datadog"/>
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40" alt="OWASP"/>
-  <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" width="40" height="40" alt="Vault"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/OWASP_logo.svg" width="40" height="40" alt="OWASP"/>
+  <img src="https://seeklogo.com/images/H/hashicorp-vault-logo-9A1F1D85C4-seeklogo.com.png" width="40" height="40" alt="Vault"/>
 </p>
 
 ---
@@ -77,7 +78,9 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taukirahmed&show_icons=true&theme=tokyonight" alt="Taukir's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taukirahmed&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=taukirahmed&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
