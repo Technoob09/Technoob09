@@ -75,17 +75,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taukirahmed&show_icons=true&theme=tokyonight" alt="Taukir's GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=taukirahmed&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-
----
-
 ### 🏆 Achievements
 - 🛡️ Certified Ethical Hacker (CEH)  
 - 🕵️‍♂️ Bug Bounty Hunter — Reported Vulnerabilities in Multiple Web Apps  
