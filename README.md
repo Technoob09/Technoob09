@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Kubernetes, ArgoCD, Terraform, and AWS Security**  
 - 💬 Ask me about **Web Application Security**, **Bug Bounty**, or **Secure CI/CD Pipelines**  
 - 📫 Reach me at **ahmedtaukir51@gmail.com**  
-- 📄 View my resume → [Click Here](https://drive.google.com/file/d/1jFQwBllfx3VXOfQdsXdqqt0QwtWl-YYC/view?usp=drive_link)  
+- 📄 View my resume → [Click Here](https://drive.google.com/file/d/1xfFRP0Nq7TxSTtYYxBfLvBHk3PwwXLWM/view?usp=drive_link)  
 
 ---
 
